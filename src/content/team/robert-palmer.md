@@ -1,9 +1,9 @@
 ---
 draft: false
-name: "Robert Palmer"
+name: "Samad"
 title: "Marketing Engineer"
 avatar: {
-    src: "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?&fit=crop&w=280",
+    src: "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_1280.png",
     alt: "Robert Palmer"
 }
 publishDate: "2022-11-09 15:39"
